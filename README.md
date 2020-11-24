@@ -1,2 +1,2 @@
 # Website-for-CV
-This is a project of development of website which also acts as an curriculum vitae.
+This is a project of development of website which also acts as an curriculum vitae. A online template is used to design the website...
