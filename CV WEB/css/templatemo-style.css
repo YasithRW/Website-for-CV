@@ -273,6 +273,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
     margin-bottom: 0;
+    margin-left:100px ;
     background-color: #ffffff;
 }
 
